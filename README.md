@@ -48,14 +48,6 @@
 
 ---
 
-## Deliverables
-1. SQL Server DDL scripts (table creation)
-2. ETL / ingestion scripts (example T-SQL BULK INSERT, or Python + pyodbc)
-3. Data-quality log & summary
-4. Example analytics SQL queries (customer, product, trend)
-5. ER diagram & data dictionary
-6. README + usage instructions (this file)
-
 
 
 
